@@ -1,0 +1,2 @@
+# GoMiscellaneousTest
+go test
